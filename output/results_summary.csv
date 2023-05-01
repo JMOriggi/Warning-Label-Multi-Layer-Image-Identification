@@ -1,0 +1,5 @@
+file_path, area_img, area_img_20perc, warn_found, area_warn, area_warn_perc, warn_in_top_half
+10.jpg, 1711476, 342295, True, 373438, 21.8, True
+33.jpg, 1032928, 206585, False, -, -, -
+34.jpg, 1719744, 343948, True, 302328, 17.6, True
+43.jpg, 1719744, 343948, True, 302328, 17.6, True
